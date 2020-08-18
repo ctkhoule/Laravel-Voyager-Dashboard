@@ -1,11 +1,48 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+## Laravel Voyager
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+1.	Ce que c'est
+
+• Une interface d'administration pour votre application Laravel
+
+• Un moyen simple d'ajouter / modifier / supprimer des données pour votre application
+
+• Un générateur de menu (créer des menus dans Voyager pour votre application)
+
+• Un gestionnaire multimédia pour vos fichiers
+
+• Générateur CRUD / BREAD 
+
+Voyager est simplement un administrateur de votre application Laravel. Tout ce que vous voulez que votre application fasse sur le front-end dépend entièrement de vous. Vous contrôlez votre application et vous pouvez utiliser Voyager pour vous simplifier la vie en ajoutant des données, en modifiant les utilisateurs, en créant des menus et de nombreuses autres tâches administratives.
+
+2.	Ce que ce n'est pas
+
+•	Un système de gestion de contenu (CMS)
+
+•	Une plateforme de blogs
+
+•	Wordpress
+
+Voyager n'est pas un CMS ou une plateforme de blogs. Mais il peut être utilisé pour créer un CMS ou une plateforme de blog, mais hors de la boîte, ce n'est ni l'un ni l'autre. Comme indiqué dans la section précédente, vous avez un contrôle total sur ce que votre application fera et comment elle fonctionnera.
+Avec Laravel & Voyager, vous pouvez créer tout type d'application que votre cœur désire. Laravel & Voyager sont simplement des outils pour faciliter la construction.
+
+
+- Préalable
+  
+  - Laravel 6 ou 7
+  
+  - PHP 7.3 ou plus récent.
+  
+- Créer un nouvel utilisateur administrateur
+
+   `php artisan voyager:admin your@email.com –create`
+   
+- Documentation 
+  
+   - [Documentation voyager](https://voyager-docs.devdojo.com/)
+
+
+
+
 
 ## About Laravel
 
